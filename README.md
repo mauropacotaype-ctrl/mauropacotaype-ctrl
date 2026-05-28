@@ -1,8 +1,8 @@
-### hola a todosss!!!, Soy Mauro :purple_heart:
+### Hello everyone!!!, I'm Mauro :purple_heart:
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
 -----
-#### Soy estudiante de Computacion cientifica, futuro profesional especializado en ciberseguridad  en la Universidad San Marcos
+#### I am a student of Scientific Computing, a future professional specializing in cybersecurity at San Marcos University.
 
 ### My skills :woman_technologist:
 - **Competitive Coding**
