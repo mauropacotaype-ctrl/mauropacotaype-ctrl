@@ -3,57 +3,64 @@
 
 -----
 #### I am a student of Scientific Computing, a future professional specializing in cybersecurity at San Marcos University.
+### About Me
+It is a pleasure to have you here. Let me introduce myself:
 
-### My skills :woman_technologist:
-- **Competitive Coding**
+My name is **Mauro Pacotaype Achalma**, and I am a student at the **Universidad Nacional Mayor de San Marcos**, currently in the early years of my journey in **Scientific Computing**.
+
+#### Why did I choose Scientific Computing?
+My greatest aspiration is to learn, understand, and master programming—every step, every detail. I always search for the "why" and the "what for." My goal is to specialize in **Cybersecurity**, explore **Artificial Intelligence**, and deeply understand mathematical theories and their applications in software development. Scientific Computing is the path that answers these questions for me. I am grateful to be part of this school, and I am determined to achieve my goals.
+
+#### The Purpose of Scientific Computing
+From my perspective, the purpose of this career is to provide both students and professionals with the vision to innovate and navigate the world of programming at every level—practical, mathematical, theoretical, and creative. It is about mastering the details of software, applying theoretical mathematical concepts to real-world programming, and specializing in fields like **Cybersecurity, Data Science, and Modeling.**
+
+Being a professional in Scientific Computing means mastering various fields of computer science and meeting both national and international demands. This allows us to expand our own knowledge, reach the global stage, and share what we have learned with the world.
+
+---
+
+### My main advantages
 <table>
 <tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
-
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
-</td>
-</tr>
+  <tr>
+    <td align="center" width="25%">
+      <img height="60px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python">
+    </td>
+    <td align="center" width="25%">
+      <img height="60px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java">
+    </td>
+    <td align="center" width="25%">
+      <img height="60px" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-ar21.svg" alt="C++">
+    </td>
+    <td align="center" width="25%">
+      <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60px">
+    </td>
+  </tr>
 </tbody>
 </table>
 
-- **Web Development**
+---
+
+### Web Development
+"The future may seem distant, but web development is constantly evolving. The tools I currently use for web development are:"
+
 <table>
 <tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
-</td>
-
-</td>
-
-</tr>
-
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
- 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
-</td>
-<tr>
- 
- </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img height="60px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL">
+    </td>
+    <td align="center" width="50%">
+      <img height="100px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="PostgreSQL">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img height="100px" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript">
+    </td>
+    <td align="center" width="50%">
+      <img height="100px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5">
+    </td>
+  </tr>
 </tbody>
 </table>
 
